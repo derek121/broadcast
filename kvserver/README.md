@@ -65,7 +65,7 @@ iex(2)>
 
 In the "foobar" window, quit telnet (control-esc and "quit"):
 
-```aidl
+```
 $ telnet localhost 4040
 Trying 127.0.0.1...
 Connected to localhost.
